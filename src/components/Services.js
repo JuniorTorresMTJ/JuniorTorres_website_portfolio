@@ -28,7 +28,7 @@ const services = [
 
 const Services = () => {
   return (
-  <section id='services' className='section'>
+  <section id='services' className=' flex items-center lg:h-screen'>
     <div className="container mx-auto">
       <div className=' flex flex-col lg:flex-row'>
         <motion.div 
@@ -36,7 +36,7 @@ const Services = () => {
         initial="hidden"
         whileInView={'show'}
          viewport={{once:false, amount:0.3}}
-        className=' flex-1 lg:bg-services lg:bg-bottom bg-no-repeat mix-blend-lighten m-2 mb-12 lg:mb-0 max-w-[320px] lg:max-w-[482px]'>
+        className=' flex-1 lg:bg-services lg:bg-bottom bg-no-repeat mix-blend-lighten m-2 mb-10 lg:mb-0 max-w-[320px] lg:max-w-[482px]'>
           <h2 className='h2 text-accent font-semibold m-5 ml-0'>What I Do.</h2>
           <h3 className='h4  leading-tight mb-10 mr-3 pr-2'>Welcome to my professional overview. Dive into my journey through machine learning engineering, data analytics, and data science across Brazil's top industries.</h3>
           <a href="https://www.linkedin.com/in/marivaldotorres/" target="_blank" ><button className='btn btn-sm'  >See my work</button></a>
@@ -62,12 +62,12 @@ const Services = () => {
                     {description}
                 </p>
             </div>
-            <div className=' flex flex-col flex-1 items-end'> 
+            {/* <div className=' flex flex-col flex-1 items-end'> 
                <a href="https://www.linkedin.com/in/marivaldotorres/" target="_blank" className='btn w-9 h-9 mb-[42] flex justify-center items-center'>
                 <BsArrowUpRight />
                </a>
                <a href="https://www.linkedin.com/in/marivaldotorres/" target="_blank" className='text-gradient text-sm'>{link}</a>
-            </div>
+            </div> */}
         </div>
     );
 })}

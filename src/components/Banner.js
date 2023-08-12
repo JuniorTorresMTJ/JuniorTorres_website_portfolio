@@ -50,16 +50,16 @@ const Banner = () => {
             whileInView={'show'}
             viewport={{once:false, amount:0.7}}
             className=' mb-8 max-wlg mx-auto lg:mx-0'>
-              Welcome to my portfolio. Here, you'll find my projects, every position I've held, and all the services I offer to help you achieve your goals.</motion.p>
+              Welcome to my website. Here, you'll find my projects, every position I've held, and all the services I offer to help you achieve your goals.</motion.p>
         <motion.div
         variants={fadeIn('up', 0.6)}
         initial="hidden"
         whileInView={'show'}
         viewport={{once:false, amount:0.7}}
         className='flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0'>
-          <a href="https://www.linkedin.com/in/marivaldotorres/">
+          <a href="https://www.linkedin.com/in/marivaldotorres/" target="_blank">
           <button className='btn btn-lg'>Contact me</button></a>
-          <a className='text-gradient btn-link' href="https://github.com/JuniorTorresMTJ">
+          <a className='text-gradient btn-link' href="https://github.com/JuniorTorresMTJ" target="_blank">
             My Portfolio
             </a>
         </motion.div>

@@ -6,12 +6,12 @@ const Header = () => {
   <header className= 'py-8'>
     <div className="container mx-auto">
       <div className='flex justify-between items-center'>
-        <a href="https://www.linkedin.com/in/marivaldotorres/" target="_blank">
+        <a href="https://juniortorresmtj.github.io/JuniorTorres_website_portfolio/" target="_blank">
           <img src= {Logo} alt=""  />
         </a>
-        <a href="https://www.linkedin.com/in/marivaldotorres/" target="_blank">
+        {/* <a href="https://www.linkedin.com/in/marivaldotorres/" target="_blank">
         <button className='btn btn-sm'>Work with me</button>
-        </a>
+        </a> */}
         </div>
     </div>
     </header>
