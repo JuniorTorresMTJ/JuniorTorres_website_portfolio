@@ -15,10 +15,10 @@ const Contact = () => {
          viewport={{once:false, amount:0.3}}
         className='flex-1 flex justify-end mb-10 lg:justify-center gap-x-7  items-center'>
           <div>
-          <h2 className='uppercase  text-accent font-semibold text-[32px]'>
+          <h2 className='uppercase  text-[#236e35] font-semibold text-[40px] drop-shadow-2xl'>
             Contact Me.
             </h2>
-          <h2 className=' text-[60px] lg:text-[90px] leading-none mb-12'> Let's work <br /> together!
+          <h2 className=' text-[60px] lg:text-[90px] leading-none mb-12 drop-shadow-2xl'> Let's work <br /> together!
           </h2>
           </div>
         </motion.div>
@@ -28,7 +28,7 @@ const Contact = () => {
                 whileInView={'show'}
                  viewport={{once:false, amount:0.3}}
         className='flex text-[20px]  gap-x-6  mx-auto  lg:-mx-0 lg:items-center lg:gap-x-10 lg:mr-32 lg:pl-12' >
-          <a href="https://github.com/JuniorTorresMTJ" target="_blank" className='text-[35px] lg:text-[50px] hover:text-[#2C8A43] animate-bounce'>
+          <a href="https://github.com/JuniorTorresMTJ" target="_blank" className='text-[35px] drop-shadow-2xl lg:text-[50px] hover:text-[#2C8A43] animate-bounce'>
           <FaGithub />
           </a>
           <a href="https://www.linkedin.com/in/marivaldotorres/" target="_blank" className=' text-[35px] lg:text-[50px] hover:text-[#2C8A43] animate-bounce'>

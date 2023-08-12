@@ -16,6 +16,7 @@ const Work = () => {
             whileInView={"show"}
             viewport={{ once: false, amount: 0.3 }}
             className=" flex-1 flex flex-col gap-y-12 mb-10 lg:mb-0"
+
           >
             <div>
               <h2 className="h2 leading-tight font-semibold text-accent">
@@ -27,7 +28,7 @@ const Work = () => {
                 optimizing workflows and deriving insights.
               </p>
               <a href="https://github.com/JuniorTorresMTJ" target="_blank">
-                <button className="btn btn-sm mb-2">View all project</button>
+                <button className="btn btn-sm mb-2">View all projects</button>
               </a>
             </div>
             <a href="https://github.com/JuniorTorresMTJ/model_api_mlops_project" target="_blank">
