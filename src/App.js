@@ -7,10 +7,12 @@ import About from './components/About';
 import Services from './components/Services';
 import Work from './components/Work';
 import Contact from './components/Contact';
+import Favicon from 'react-favicon';
 
 const App = () => {
   return (
     <div className='bg-site bg-no-repeat bg-cover overflow-hidden'>
+      <Favicon url="./favicon.ico"/>
       <Header />
       <Banner />
       <Nav />
