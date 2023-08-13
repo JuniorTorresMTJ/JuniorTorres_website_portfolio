@@ -27,7 +27,7 @@ const Work = () => {
                 optimizing workflows and deriving insights.
               </p>
               <a href="https://github.com/JuniorTorresMTJ" target="_blank">
-                <button className="btn btn-sm mb-2">View all project</button>
+                <button className="btn btn-sm mb-2">View all projects</button>
               </a>
             </div>
             <a href="https://github.com/JuniorTorresMTJ/model_api_mlops_project" target="_blank">
