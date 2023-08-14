@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/JuniorTorres_website_portfolio/static/css/main.f8e1b83c.css",
-    "main.js": "/JuniorTorres_website_portfolio/static/js/main.d5b9eeab.js",
+    "main.css": "/JuniorTorres_website_portfolio/static/css/main.b270dd2c.css",
+    "main.js": "/JuniorTorres_website_portfolio/static/js/main.8f71c7ae.js",
     "static/media/avatar.svg": "/JuniorTorres_website_portfolio/static/media/avatar.cc810683a0d469c66f5c93d6a6a10a20.svg",
     "static/media/site-bg.jpg": "/JuniorTorres_website_portfolio/static/media/site-bg.6975b9793fed780f2ed2.jpg",
     "static/media/about.png": "/JuniorTorres_website_portfolio/static/media/about.209e18d40e7c7a7601a5.png",
@@ -11,11 +11,11 @@
     "static/media/services.png": "/JuniorTorres_website_portfolio/static/media/services.92e446dfe98cedbdfdb0.png",
     "static/media/logo.svg": "/JuniorTorres_website_portfolio/static/media/logo.8018ac32776eb7f80ac7a570d46fb993.svg",
     "index.html": "/JuniorTorres_website_portfolio/index.html",
-    "main.f8e1b83c.css.map": "/JuniorTorres_website_portfolio/static/css/main.f8e1b83c.css.map",
-    "main.d5b9eeab.js.map": "/JuniorTorres_website_portfolio/static/js/main.d5b9eeab.js.map"
+    "main.b270dd2c.css.map": "/JuniorTorres_website_portfolio/static/css/main.b270dd2c.css.map",
+    "main.8f71c7ae.js.map": "/JuniorTorres_website_portfolio/static/js/main.8f71c7ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8e1b83c.css",
-    "static/js/main.d5b9eeab.js"
+    "static/css/main.b270dd2c.css",
+    "static/js/main.8f71c7ae.js"
   ]
 }
