@@ -15,7 +15,7 @@ const Contact = () => {
          viewport={{once:false, amount:0.3}}
         className='flex-1 flex justify-end mb-10 lg:justify-center gap-x-7  items-center'>
           <div>
-          <h2 className='uppercase  text-[#236e35] font-semibold text-[40px] drop-shadow-2xl'>
+          <h2 className='uppercase  text-[#194924] font-semibold text-[40px] drop-shadow-2xl'>
             Contact Me.
             </h2>
           <h2 className=' text-[60px] lg:text-[90px] leading-none mb-12 drop-shadow-2xl'> Let's work <br /> together!
