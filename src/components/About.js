@@ -29,7 +29,7 @@ const About = () => {
                 viewport={{once:false, amount:0.3}}
         className='flex-1'>
           <h2 className=' h2 text-accent font-semibold'>About me.</h2>
-          <h3 className=' h3 mb-4 '>I'm a Data prefessional with over 3 years of experience.
+          <h3 className=' h3 mb-4 '>I'm a Data professional with over 3 years of experience.
           </h3>
           <p className='mb-6'>
           I'm a Machine Learning Engineering professional with experience in Python, MLOps, MLflow, SQL, PowerBI, PySpark, Databricks, Git, Docker, Poetry, Azure Cloud, Azure DevOps, HTML, CSS, ReactJS and AngularJS.
